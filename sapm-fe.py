@@ -6,7 +6,6 @@
 # Import modules
 import pandas as pd    # To load dataset
 import numpy as np     # To round the percentage probability for better viewing
-import matplotlib.pyplot as plt # To plot graphs for analysis
 
 import datetime        # To format date
 
